@@ -28,5 +28,12 @@ This Power BI dashboard provides insights into mobile sales performance across r
 - Brand Y consistently ranked top in sales
 - Seasonal spikes observed during festive months
 
+## Screenshots
+
+# Month-to-Date (MTD)
+![MTD Sales](images/mtd.png)
+
+# Same Period Last Year (SPLY)
+![SPLY Sales](images/sply.png)
 
 
