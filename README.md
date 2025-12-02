@@ -29,10 +29,8 @@ This Power BI dashboard provides insights into mobile sales performance across r
 - Seasonal spikes observed during festive months
 
 ## Screenshots
-
-
 ## Dashboard Page
-![Dashboard Overview](Dashboard.png)
+![Dashboard Overview](dash.png)
 
 # Month-to-Date (MTD)
 ![MTD Sales](mtd.png)
