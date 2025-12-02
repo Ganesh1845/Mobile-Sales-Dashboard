@@ -31,9 +31,9 @@ This Power BI dashboard provides insights into mobile sales performance across r
 ## Screenshots
 
 # Month-to-Date (MTD)
-![MTD Sales](images/mtd.png)
+![MTD Sales](mtd.png)
 
 # Same Period Last Year (SPLY)
-![SPLY Sales](images/sply.png)
+![SPLY Sales](Sply.png)
 
 
