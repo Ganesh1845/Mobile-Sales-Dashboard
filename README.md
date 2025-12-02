@@ -30,8 +30,9 @@ This Power BI dashboard provides insights into mobile sales performance across r
 
 ## Screenshots
 
-##Dashboard
-![MTD Sales](Dashboard.png)
+
+## Dashboard Page
+![Dashboard Overview](Dashboard.png)
 
 # Month-to-Date (MTD)
 ![MTD Sales](mtd.png)
